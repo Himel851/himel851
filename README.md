@@ -5,11 +5,7 @@
 
 I am a highly passionate, enthusiastic, hardworking and dedicated learner. Self-motivated IT professional with deep knowledge and proficiency in JavaScript, HTML, CSS, and mobile responsive website development, as well as highly potent skills and ability in an efficient code. I have a strong passion for the creativity and discipline that goes into front-end development. Keeping in mind scalability and clean code that is maintainable and readable.
 
-Skills: REACT JS / HTML / CSS/ 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Javascript 
-- 💬 Ask me about Web Developent 
-
+Skills: REACT JS / React Hook /  ES6 / JS Json/ HTML / CSS / Bootstrap / Responsive Web Design
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Himel851)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nazmulhimel96//)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nazmulhimel.netlify.app/)  
 

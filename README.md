@@ -8,7 +8,9 @@ Skills:  React JS / Next JS / Tailwind CSS / TypeScript / React-Bootstrap/ HTML 
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Himel851)    [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nazmulhimel96//)  [<img src='https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nazmulhasan.himel)    [<img src='https://static.vecteezy.com/system/resources/previews/003/731/316/original/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg' alt='website' height='40'>](https://nazmulhimel.netlify.app/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Himel851) &nbsp; 
+[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nazmulhimel96//) [<img src='https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nazmulhasan.himel)
+[<img src='https://static.vecteezy.com/system/resources/previews/003/731/316/original/web-icon-line-on-white-background-image-for-web-presentation-logo-icon-symbol-free-vector.jpg' alt='website' height='40'>](https://nazmulhimel.netlify.app/)  
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>

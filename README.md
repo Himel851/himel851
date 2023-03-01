@@ -6,7 +6,6 @@ I am a highly passionate, enthusiastic, hardworking and dedicated learner. Self-
 
 Skills:  React JS / Next JS / Tailwind CSS / TypeScript / React-Bootstrap/ HTML / CSS  / Responsive Web Design
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Himel851)
 
 <h3 align="left">Connect with me:</h3>
 

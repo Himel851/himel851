@@ -6,6 +6,7 @@ I am a highly passionate, enthusiastic, hardworking and dedicated learner. Self-
 
 Skills:  React JS / Next JS / Tailwind CSS / TypeScript / React-Bootstrap/ HTML / CSS  / Responsive Web Design
 
+![](https://komarev.com/ghpvc/?himel851&color=green)
 
 <h3 align="left">Connect with me:</h3>
 

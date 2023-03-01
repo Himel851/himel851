@@ -22,4 +22,4 @@ Skills:  React JS / Next JS / Tailwind CSS / TypeScript / React-Bootstrap/ HTML 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himel851&" alt="himel851" /></p>
 
-
+![](https://komarev.com/ghpvc/?username=himel851)

@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nazmul Hasan Himel
 #### Front End Developer
-![Front End Developer][(https://media.licdn.com/dms/image/D5616AQHn5sqdP4QhUw/profile-displaybackgroundimage-shrink_350_1400/0/1677608798848?e=1688601600&v=beta&t=2Exwp0OleWuaR798yEdKtEGFbaQxQJ6LiLXio2ukzm4)](https://media.licdn.com/dms/image/D5616AQHn5sqdP4QhUw/profile-displaybackgroundimage-shrink_350_1400/0/1677608798848?e=1697068800&v=beta&t=tBu9WERneSmTFHDXAMGMPobzE64svh9Qzv3CTElzAsU)
+[![Front End Developer][(https://media.licdn.com/dms/image/D5616AQHn5sqdP4QhUw/profile-displaybackgroundimage-shrink_350_1400/0/1677608798848?e=1688601600&v=beta&t=2Exwp0OleWuaR798yEdKtEGFbaQxQJ6LiLXio2ukzm4)](https://media.licdn.com/dms/image/D5616AQHn5sqdP4QhUw/profile-displaybackgroundimage-shrink_350_1400/0/1677608798848?e=1697068800&v=beta&t=tBu9WERneSmTFHDXAMGMPobzE64svh9Qzv3CTElzAsU)](https://media.licdn.com/dms/image/D5616AQHn5sqdP4QhUw/profile-displaybackgroundimage-shrink_350_1400/0/1677608798848?e=1697068800&v=beta&t=tBu9WERneSmTFHDXAMGMPobzE64svh9Qzv3CTElzAsU)
 
 I am a highly passionate, enthusiastic, hardworking and dedicated learner. Self-motivated IT professional with deep knowledge and proficiency in JavaScript, HTML, CSS, and mobile responsive website development, as well as highly potent skills and ability in an efficient code. I have a strong passion for the creativity and discipline that goes into front-end development. Keeping in mind scalability and clean code that is maintainable and readable.
 

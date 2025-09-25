@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nazmul Hasan Himel
-### 🚀 Frontend Developer | React & Next.js Enthusiast
+### 🚀 Frontend Developer | 
 
-![Banner](https://media.licdn.com/dms/image/D5616AQHn5sqdP4QhUw/profile-displaybackgroundimage-shrink_350_1400/0/1677608798848?e=1703116800&v=beta&t=9D5cyfsJWPhtaCRpEgknKvsp5JEW4N8NIfn0RoK3uJ8)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQHn5sqdP4QhUw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1677608800216?e=1761782400&v=beta&t=y71UMDqa_ta1JH0x-5uUYViIowUtUu2xQaAAATg9Dic)
 
 I am a passionate and self-motivated **Frontend Developer** with hands-on experience in building modern, scalable, and user-friendly web applications.  
 I specialize in crafting responsive UIs and performance-optimized websites using **React.js, Next.js, and modern UI libraries**.  
@@ -21,7 +21,7 @@ I specialize in crafting responsive UIs and performance-optimized websites using
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30">](https://github.com/Himel851)
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30">](https://www.linkedin.com/in/nazmulhimel96/) 
 [<img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt="Facebook" height="30">](https://www.facebook.com/nazmulhasan.himel)  
-[🌍 Portfolio](https://nazmulhimel.netlify.app/)
+[🌍 Portfolio](https://himel-portfolio.netlify.app/)
 
 ---
 

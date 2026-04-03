@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nazmul Hasan Himel
 ### 🚀 Frontend Developer | 
 
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQHn5sqdP4QhUw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1677608800216?e=1761782400&v=beta&t=y71UMDqa_ta1JH0x-5uUYViIowUtUu2xQaAAATg9Dic)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQHeX0KOW-mjFQ/profile-displaybackgroundimage-shrink_350_1400/B56ZswRRdGI0Ac-/0/1766041394876?e=1776902400&v=beta&t=XtZ58Id1U4xjFWf6VW_IcV7zep1eZAtdTYX5DtcZw_k)
 
 I am a passionate and self-motivated **Frontend Developer** with hands-on experience in building modern, scalable, and user-friendly web applications.  
 I specialize in crafting responsive UIs and performance-optimized websites using **React.js, Next.js, and modern UI libraries**.  

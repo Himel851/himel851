@@ -50,6 +50,7 @@ Currently expanding my backend knowledge with Node.js and Express.js to grow tow
 | **Payments**             | SSLCommerz, bKash, Nagad                                   |
 | **Backend (Learning)**   | Node.js, Express.js                                        |
 | **Tools & Deployment**   | Git, GitHub, Vercel, Netlify                               |
+| **AI Tools** | Cursor AI, ChatGPT, Claude AI, Gemini |
 
 ---
 

@@ -10,7 +10,7 @@ React.js • Next.js • TypeScript • Performance & Conversion Tracking
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazmul%20Hasan%20Himel-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nazmulhimel96/)
 [![GitHub](https://img.shields.io/badge/GitHub-Himel851-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Himel851)
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQGGOBYLFA0UGw/profile-displaybackgroundimage-shrink_350_1400/B56Z4p.rGWJcAU-/0/1778820756093?e=1780531200&v=beta&t=3RMEJsMN_Sc8IunhK1GjhD8tA4Got6OSbzHI6vZavLw" alt="Banner" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGGOBYLFA0UGw/profile-displaybackgroundimage-shrink_350_1400/B56Z4p.rGWJcAU-/0/1778820756093?e=1787788800&v=beta&t=Du8widfKBbKMQfVYzfq2vte35pC8eiga8ssLlAL3WAE" alt="Banner" width="100%" />
 
 </div>
 
